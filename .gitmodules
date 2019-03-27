@@ -1,0 +1,6 @@
+[submodule "DeepLearnning"]
+	path = DeepLearnning
+	url = git@github.com:kananaskis/DeepLearnning.git
+[submodule "ImageProcessing"]
+	path = ImageProcessing
+	url = git@github.com:kananaskis/ImageProcessing.git
